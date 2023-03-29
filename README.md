@@ -128,8 +128,5 @@ Our app primarily deals with the health sector. When it comes to saving a life, 
 <a href="https://github.com/ishandeveloper"><img width="128px" src="https://avatars1.githubusercontent.com/u/54989142?s=460&u=4b787a0f50c1236b915d4766aa1a40c1b1d9f313&v=4"></a><a href="https://github.com/kushalbhanot"><img width="128px" src="https://avatars.githubusercontent.com/u/51001134?v=4"></a><a href="https://github.com/himanshusharma89"><img width="128px" src="https://avatars.githubusercontent.com/u/44980497?v=4"></a><a href="https://github.com/bhaveshgoyal182"><img width="128px" src="https://avatars.githubusercontent.com/u/60166991?v=4"></a>
 </p>
 
-
-
-
-
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/Revanthk08)
 For help getting started with Flutter, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
