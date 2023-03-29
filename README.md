@@ -1,10 +1,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fishandeveloper%2FGoogle-DSC-Solution-Challenge&count_bg=%23EF466F&title_bg=%23EB2F5D&icon=googlekeep.svg&icon_color=%23E7E7E7&title=GDSC%20Solution%20Challenge%20Visits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Flutter Version](https://img.shields.io/badge/flutter-%3E%3D%203.7.8-blue)](https://flutter.dev/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 <img src="./designs/hero.png" width="100%"/>
-  <h1 align="center"> Swaasthy </h1>
+  <h1 align="center"> GG </h1>
 <p align="center">A <b>Google DSC Solution Challenge</b> submission</p>.
 
-<p align="center">Swaasthy is an app made to uplift user's health. It contains everything from medicine reminder functionality to make an SOS call to nearby ambulances to getting an appointment with a virtual doc. We believe that this is a revolutionary step necessary in bringing down the death-rate due to delay faced by patients in our country.</p>
+<p align="center">The food donation app is a mobile application that offers a user-friendly platform for individuals and businesses to donate excess food to nearby charities and community groups. The app facilitates easy browsing of a list of available charities, allowing users to select the one they wish to support. Additionally, the app offers details on the impact of the user's donation, including the number of meals provided and the reduction in carbon emissions. Users can also receive notifications about new donation opportunities and keep up-to-date with their chosen charities. Overall, the food donation app is an effective and convenient means of reducing food waste and supporting the local community.</p>
 
 ### Video Submission
 
