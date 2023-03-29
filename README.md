@@ -5,13 +5,13 @@
 
 <img src="./designs/hero.png" width="100%"/>
   <h1 align="center"> GG </h1>
-<p align="center">A <b>Google DSC Solution Challenge</b> submission</p>.
+<p align="center">A <b>Google DSC Solution Challenge</b> submission</p>
 
 <p align="center">The food donation app is a mobile application that offers a user-friendly platform for individuals and businesses to donate excess food to nearby charities and community groups. The app facilitates easy browsing of a list of available charities, allowing users to select the one they wish to support. Additionally, the app offers details on the impact of the user's donation, including the number of meals provided and the reduction in carbon emissions. Users can also receive notifications about new donation opportunities and keep up-to-date with their chosen charities. Overall, the food donation app is an effective and convenient means of reducing food waste and supporting the local community.</p>
 
 ### Video Submission
 
-You can checkout our video submission demo on youtube by clicking on the thumbnail below.
+The link for our project demo can be found here👇👇👇
 
 <a href="http://www.youtube.com/watch?v=dinzfBUDqi0">
 <img src="https://img.youtube.com/vi/dinzfBUDqi0/maxresdefault.jpg" width="500px">                                                                                
@@ -54,16 +54,14 @@ This project uses 'Product Sans' as it's primary font, with weights of 400 and 6
 Moreover, here are a few constants which are used throughout the project, and have been added within a **CodeRedColors** class, use them accordingly.
 
 ```
-base            : FAFAFAF
-primary         : EE466E
-primaryAccent   : bd284b
-inactive        : 9E9E9E
-primary2        : 6246EE
-primary2Accent  : 3a21b8
-inputFields     : F3F3F3
-medicineCard    : FDA8F3
+base            : ED413E
+primary         : FFFFFF
+primaryAccent   : 9A9A9A
+primary2        : ED413E
+primary2Accent  : A4A4A4
+inputFields     : F1F1F1
 text            : 000000
-textSecondary   : 828282
+textSecondary   : 9A9A9A
 ```
 
 #### Designs
