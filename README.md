@@ -23,19 +23,15 @@ The contents in this project follow the following structure, where all views are
 
 ```
 ├───models
-|
+├───provider
+├───resuable
 ├───screens
-│   ├───auth
-│   ├───consult
-│   ├───emergency
-│   ├───forums
-│   ├───home
-│   ├───reminder
-│   └───stats
-|
-├───services
-│
-├───shared_widgets
+│   ├───alert
+│   ├───community
+│   ├───explorePage
+│   ├───HomePage
+│   ├───Login
+│   ├───Profile
 │
 └───utils
 ```
@@ -44,12 +40,12 @@ Each individual screen in the above, follow this structure
 
 ```
 screen
-  ├──local_widgets
-  └──index.dart
+  ├──reusable_widgets
+  └──filename.dart
 ```
 
 #### Constants
-This project uses 'Product Sans' as it's primary font, with weights of 400 and 600. All the fonts have been pre-imported.
+This project uses 'Popins' as it's primary font. All the fonts have been pre-imported.
 
 Moreover, here are a few constants which are used throughout the project, and have been added within a **CodeRedColors** class, use them accordingly.
 
@@ -132,6 +128,8 @@ Our app primarily deals with the health sector. When it comes to saving a life, 
 <a href="https://github.com/ishandeveloper"><img width="128px" src="https://avatars1.githubusercontent.com/u/54989142?s=460&u=4b787a0f50c1236b915d4766aa1a40c1b1d9f313&v=4"></a><a href="https://github.com/kushalbhanot"><img width="128px" src="https://avatars.githubusercontent.com/u/51001134?v=4"></a><a href="https://github.com/himanshusharma89"><img width="128px" src="https://avatars.githubusercontent.com/u/44980497?v=4"></a><a href="https://github.com/bhaveshgoyal182"><img width="128px" src="https://avatars.githubusercontent.com/u/60166991?v=4"></a>
 </p>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
+
+
+
 
 For help getting started with Flutter, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
