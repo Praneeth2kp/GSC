@@ -1,7 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fishandeveloper%2FGoogle-DSC-Solution-Challenge&count_bg=%23EF466F&title_bg=%23EB2F5D&icon=googlekeep.svg&icon_color=%23E7E7E7&title=GDSC%20Solution%20Challenge%20Visits&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Flutter Version](https://img.shields.io/badge/flutter-%3E%3D%203.7.8-blue)](https://flutter.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 
 <img src="./designs/hero.png" width="100%"/>
   <h1 align="center"> GG </h1>
@@ -67,11 +65,13 @@ All the design/mockups for the app have been added in the `designs` directory. Y
 ### Description
  - Our solution mainly consists of a Flutter based mobile app. We wanted
    our solution to reach the masses, that's why we picked flutter as our
-   framework of choice because of its cross-platform capabilities.
-  
+   framework of choice because of its cross-platform capabilities.<br><br>
+  [![Flutter Version](https://img.shields.io/badge/flutter-%3E%3D%203.7.8-blue)](https://flutter.dev/)
+
   - For the backend, we mostly relied on Firebase, as it was easier to
    integrate with the flutter app, without any hassle to manage & create
-   instances of our server. 
+   instances of our server. <br><br>
+[![Firebase Version](https://img.shields.io/badge/firebase-6.1.1-orange.svg)](https://firebase.google.com/)
    
   - For sign-up & authentication, we used Firebase auth. If you're a medical volunteer, we'll ask you to upload an image of your medical ID card and we're using firebase ml kit for verification.<br>
 <img src="./designs/Auth.png" width="20%"><img src="./designs/Home - Screen.png" width="20%"><img src="./designs/Disease-Map.png" width="20%"><img src="./designs/Screenshot_20210401-103126.jpg" width="20%"><img src="./designs/Consult a doctor.png" width="20%">
@@ -118,9 +118,10 @@ cd \Google-DSC-Solution-Challenge
 flutter run
 ```
 ## About
-Solving real-life problems is not easy, but at the same time, it's not impossible. Keeping this in mind, a team of four student developers from Chitkara University, Punjab, worked throughout March to solve a concerning problem by leveraging tech.
+A team of 4 students at Veltech University developed a food donation application to tackle food wastage and hunger in our locality. The app provides users with a simple and convenient way to donate surplus food to nearby charities and community organizations, and track the impact of their donations.
 
-Our app primarily deals with the health sector. When it comes to saving a life, every millisecond counts! One in 10 patients in India dies on the way to the hospital. And we're here to change to that. We're **Swaasthy**! 
+Our team employed the use of Flutter, Dart, and Firebase to develop the application's authentication features. Flutter aided us in creating an intuitive and seamless user interface, while Dart provided a dependable programming language. Firebase's authentication feature enabled us to manage user data in a secure and private manner.
+ We are proud of our achievements and remain committed to developing innovative solutions to address critical social problems.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/Revanthk08)  
 
