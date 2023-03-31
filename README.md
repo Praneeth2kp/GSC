@@ -63,44 +63,31 @@ textSecondary   : 9A9A9A
 All the design/mockups for the app have been added in the `designs` directory. You can use those for reference.
 
 ### Description
- - Our solution mainly consists of a Flutter based mobile app. We wanted
-   our solution to reach the masses, that's why we picked flutter as our
-   framework of choice because of its cross-platform capabilities.<br><br>
-  [![Flutter Version](https://img.shields.io/badge/flutter-%3E%3D%203.7.8-blue)](https://flutter.dev/)
+  GIVE FOR GOOD
 
-  - For the backend, we mostly relied on Firebase, as it was easier to
-   integrate with the flutter app, without any hassle to manage & create
-   instances of our server. <br><br>
-[![Firebase Version](https://img.shields.io/badge/firebase-6.1.1-orange.svg)](https://firebase.google.com/)
-   
-  - For sign-up & authentication, we used Firebase auth. If you're a medical volunteer, we'll ask you to upload an image of your medical ID card and we're using firebase ml kit for verification.<br>
-<img src="./designs/Auth.png" width="20%"><img src="./designs/Home - Screen.png" width="20%"><img src="./designs/Disease-Map.png" width="20%"><img src="./designs/Screenshot_20210401-103126.jpg" width="20%"><img src="./designs/Consult a doctor.png" width="20%">
-   
-  - For storing the different types of data including user data, posts
-   for the forum, ambulances, insights for the heatmap, doctors,
-   appointments etc. we chose Cloud Firestore because of its robust
-   features and ability to query & filter out documents with ease.
-   
-  - For verifying the medical volunteer ID Card Image, we used Firebase
-   ML Kit, specifically the text recognition service.
-   
-  - To enable image posting in forums, and to store the volunteer image
-   we used firebase cloud storage.
-   
-  - For handling payments, we used Razorpay SDK, which allowed us to
-   accept payments for doctor appointment booking using Google Pay.
-   
-  - Adding video-calling for doctors and users was a challenging part, we
-   ended up using agora WebRTC SDK to enable that feature within the
-   app.
-   
-  - For the symptom-based disease recognition system, we looked up a lot
-   for a reliable resource and ended up using prepaid service from
-   ApiMedic.
-   
-  - For the Google Assistant Action, we used actions SDK with Google
-   Actions builder tool, along with that for hosting an instance for
-   webhooks, we used GCP.
+Our mobile app for food donation serves as a tool to allow people and groups to contribute extra food to individuals who require it. The app has multiple features, such as building communities for food distribution, fundraising for food donations, and creating profiles to provide services. Our application is intended to minimize food waste and address the issue of hunger.
+
+Key Features:
+- Food donation: Easily donate surplus food to local charities and community groups.
+- Community creation: Create communities to distribute food to those in need as an organisation.
+- Progress: One can know the prgress of donation and completion status.
+- Raise Request: To know how many adults and children are in need of food.
+- Fundraising: To raise funds to organise food donation events.
+- Profile creation: Create a profile to offer services and support the cause.
+
+Technology Stack :<br><br>
+ [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev/)
+  : Cross-platform framework for mobile app development <br><br>
+ [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
+  : Backend infrastructure for authentication, database, and storage
+
+Impact:<br><br>
+Our app has the potential to create a significant impact in our community by reducing food waste and supporting those in need. We invite everyone to join us in our mission to promote sustainable practices and combat hunger.
+
+Contributing:<br><br>
+Our open-source project on GitHub is open to contributions from anyone who shares our vision of a world without hunger. You can join us to contribute to the codebase, report any issues you encounter, or suggest new features that align with our mission. We would be delighted to have you on board.
+
+
 
 ## Setup
 
