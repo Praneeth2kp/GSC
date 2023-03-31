@@ -1,8 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fishandeveloper%2FGoogle-DSC-Solution-Challenge&count_bg=%23EF466F&title_bg=%23EB2F5D&icon=googlekeep.svg&icon_color=%23E7E7E7&title=GDSC%20Solution%20Challenge%20Visits&edge_flat=true)](https://hits.seeyoufarm.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <img src="./designs/hero.png" width="100%"/>
-  <h1 align="center"> GG </h1>
+  <h1 align="center"> GG (Give for Good) </h1>
 <p align="center">A <b>Google DSC Solution Challenge</b> submission</p>
 
 <p align="center">The food donation app is a mobile application that offers a user-friendly platform for individuals and businesses to donate excess food to nearby charities and community groups. The app facilitates easy browsing of a list of available charities, allowing users to select the one they wish to support. Additionally, the app offers details on the impact of the user's donation, including the number of meals provided and the reduction in carbon emissions. Users can also receive notifications about new donation opportunities and keep up-to-date with their chosen charities. Overall, the food donation app is an effective and convenient means of reducing food waste and supporting the local community.</p>
@@ -75,11 +75,9 @@ Key Features:
 - Fundraising: To raise funds to organise food donation events.
 - Profile creation: Create a profile to offer services and support the cause.
 
-Technology Stack :<br><br>
- [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev/)
-  : Cross-platform framework for mobile app development <br><br>
- [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
-  : Backend infrastructure for authentication, database, and storage
+Technology Stack:
+- Flutter: Cross-platform framework for mobile app development
+- Firebase: Backend infrastructure for authentication, database, and storage
 
 Impact:<br><br>
 Our app has the potential to create a significant impact in our community by reducing food waste and supporting those in need. We invite everyone to join us in our mission to promote sustainable practices and combat hunger.
@@ -116,5 +114,7 @@ Our team employed the use of Flutter, Dart, and Firebase to develop the applicat
 <a href="https://github.com/ishandeveloper"><img width="128px" src="https://avatars1.githubusercontent.com/u/54989142?s=460&u=4b787a0f50c1236b915d4766aa1a40c1b1d9f313&v=4"></a><a href="https://github.com/kushalbhanot"><img width="128px" src="https://avatars.githubusercontent.com/u/51001134?v=4"></a><a href="https://github.com/himanshusharma89"><img width="128px" src="https://avatars.githubusercontent.com/u/44980497?v=4"></a><a href="https://github.com/bhaveshgoyal182"><img width="128px" src="https://avatars.githubusercontent.com/u/60166991?v=4"></a>
 </p>
 
-
-For help getting started with Flutter, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+To get aquainted with the flutter and firebase,the online documentation , tutorials, samples, and guidance on mobile development and also a full API reference the links are given below👇👇👇
+<br><br>
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
