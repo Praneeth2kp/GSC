@@ -114,7 +114,7 @@ Our team employed the use of Flutter, Dart, and Firebase to develop the applicat
 <a href="https://github.com/ishandeveloper"><img width="128px" src="https://avatars1.githubusercontent.com/u/54989142?s=460&u=4b787a0f50c1236b915d4766aa1a40c1b1d9f313&v=4"></a><a href="https://github.com/kushalbhanot"><img width="128px" src="https://avatars.githubusercontent.com/u/51001134?v=4"></a><a href="https://github.com/himanshusharma89"><img width="128px" src="https://avatars.githubusercontent.com/u/44980497?v=4"></a><a href="https://github.com/bhaveshgoyal182"><img width="128px" src="https://avatars.githubusercontent.com/u/60166991?v=4"></a>
 </p>
 
-To get aquainted with the flutter and firebase,the online documentation , tutorials, samples, and guidance on mobile development and also a full API reference the links are given below👇👇👇
+To get aquainted with the flutter and firebase,the online documentation , tutorials, samples, and guidance on mobile development and also a full API reference the links are given below
 <br><br>
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
